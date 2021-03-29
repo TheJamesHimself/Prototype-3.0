@@ -1,2 +1,2 @@
 # Prototype-3.0
-V A N I L L A
+Prototype Stage 2.1 - Online Testing (No Theme)
